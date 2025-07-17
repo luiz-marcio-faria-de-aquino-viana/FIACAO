@@ -1,0 +1,302 @@
+
+FIACAO - Processamento da Fiacao Eletrica
+por Luiz Marcio Faria Viana, 9/5/96
+
+Processando os dados de entrada...
+Lista de eletrodutos:
+ F1A *** 177 - C43
+ EF6 *** E4B - EEC
+ DA1 *** 232 - 217
+ D9B *** 232 - 221
+ D5A *** F9 - D38
+ D48 *** D3E - D38
+ D34 *** 246 - 250
+ D28 *** 10C - 22B
+ D22 *** 10C - C8F
+ D12 *** C79 - 1A9
+ D0E *** C79 - 177
+ D0A *** 203 - C57
+ D06 *** 203 - 20D
+ CFE *** 203 - C61
+ CFA *** 1DB - 203
+ CF2 *** C1F - 1DB
+ CEE *** 1E5 - C1F
+ CE6 *** 18B - 181
+ CDE *** 1DB - 18B
+ CD6 *** C15 - 1DB
+ CD2 *** 195 - 19F
+ CCE *** C15 - 195
+ CBA *** 1C7 - C15
+ CB6 *** C0B - 1C7
+ CAE *** 1C7 - 1C7
+Processando fiacao eletrica do quadro = QT-SERVICO...
+Lista de elementos:
+hnd = C43(0)
+..tip = 4
+..org = QT-SERVICO
+..des = 
+..cir = VP4
+..cmd = 
+..fas = 7
+hnd = EEC(0)
+..tip = 4
+..org = QT-SERVICO
+..des = 
+..cir = VP4
+..cmd = 
+..fas = 7
+hnd = 221(0)
+..tip = 0
+..org = QT-SERVICO
+..des = 
+..cir = 4
+..cmd = A, 
+..fas = 7
+hnd = 232(0)
+..tip = 4
+..org = QT-SERVICO
+..des = 
+..cir = 3
+..cmd = A, 
+..fas = 7
+hnd = F9(0)
+..tip = 5
+..org = QT-SERVICO
+..des = 
+..cir = 
+..cmd = 
+..fas = 0
+hnd = D38(0)
+..tip = 5
+..org = QT-SERVICO
+..des = 
+..cir = 
+..cmd = 
+..fas = 0
+hnd = D3E(0)
+..tip = 5
+..org = QT-SERVICO
+..des = 
+..cir = 
+..cmd = 
+..fas = 0
+hnd = 250(1)
+..tip = 0
+..org = QT-SERVICO
+..des = 
+..cir = 4
+..cmd = 
+..fas = 7
+hnd = 250(0)
+..tip = 1
+..org = QT-SERVICO
+..des = 
+..cir = 
+..cmd = C, 
+..fas = 0
+hnd = 246(0)
+..tip = 4
+..org = QT-SERVICO
+..des = 
+..cir = 3
+..cmd = C, 
+..fas = 7
+hnd = 22B(0)
+..tip = 1
+..org = QT-SERVICO
+..des = 
+..cir = 
+..cmd = 
+..fas = 0
+hnd = C8F(0)
+..tip = 1
+..org = QT-SERVICO
+..des = 
+..cir = 
+..cmd = B, 
+..fas = 0
+hnd = 10C(0)
+..tip = 4
+..org = QT-SERVICO
+..des = 
+..cir = 3
+..cmd = B, 
+..fas = 7
+hnd = 1A9(0)
+..tip = 4
+..org = QT-SERVICO
+..des = 
+..cir = 2
+..cmd = 
+..fas = 7
+hnd = 177(0)
+..tip = 4
+..org = QT-SERVICO
+..des = 
+..cir = 1
+..cmd = 
+..fas = 7
+hnd = C79(0)
+..tip = 4
+..org = QT-SERVICO
+..des = 
+..cir = VP4
+..cmd = 
+..fas = 7
+hnd = C57(0)
+..tip = 4
+..org = QT-SERVICO
+..des = 
+..cir = VP4
+..cmd = 
+..fas = 7
+hnd = 20D(0)
+..tip = 4
+..org = QT-SERVICO
+..des = 
+..cir = 1
+..cmd = 
+..fas = 7
+hnd = C61(0)
+..tip = 4
+..org = QT-SERVICO
+..des = 
+..cir = VP4
+..cmd = 
+..fas = 7
+hnd = 203(0)
+..tip = 4
+..org = QT-SERVICO
+..des = 
+..cir = 2
+..cmd = 
+..fas = 7
+hnd = C1F(0)
+..tip = 4
+..org = QT-SERVICO
+..des = 
+..cir = VP4
+..cmd = 
+..fas = 7
+hnd = 1E5(0)
+..tip = 4
+..org = QT-SERVICO
+..des = 
+..cir = 1
+..cmd = 
+..fas = 7
+hnd = 181(0)
+..tip = 4
+..org = QT-SERVICO
+..des = 
+..cir = 1
+..cmd = 
+..fas = 7
+hnd = 18B(0)
+..tip = 4
+..org = QT-SERVICO
+..des = 
+..cir = 2
+..cmd = 
+..fas = 7
+hnd = 1DB(0)
+..tip = 4
+..org = QT-SERVICO
+..des = 
+..cir = 1
+..cmd = 
+..fas = 7
+hnd = 19F(0)
+..tip = 4
+..org = QT-SERVICO
+..des = 
+..cir = 2
+..cmd = 
+..fas = 7
+hnd = 195(0)
+..tip = 4
+..org = QT-SERVICO
+..des = 
+..cir = 1
+..cmd = 
+..fas = 7
+hnd = C15(0)
+..tip = 4
+..org = QT-SERVICO
+..des = 
+..cir = VP4
+..cmd = 
+..fas = 7
+hnd = C0B(0)
+..tip = 4
+..org = QT-SERVICO
+..des = 
+..cir = VP4
+..cmd = 
+..fas = 7
+hnd = 1C7(0)
+..tip = 4
+..org = QT-SERVICO
+..des = 
+..cir = 1
+..cmd = 
+..fas = 7
+hnd = E4B(0)
+..tip = 2
+..org = QG-SERVICO
+..des = 
+..cir = 
+..cmd = 
+..fas = 31
+Lista de desvios:
+Lista de comandos ANTES do ajuste:
+cmd = A, cir = 4, fas = 7
+cmd = C, cir = 3, fas = 7
+...hnd = 250(0), itip = 0
+cmd = B, cir = 3, fas = 7
+...hnd = C8F(0), itip = 0
+Lista de comandos APOS o ajuste:
+cmd = A, cir = 4, fas = 7
+cmd = C, cir = 3, fas = 7
+...hnd = 250(0), itip = 0
+cmd = B, cir = 3, fas = 7
+...hnd = C8F(0), itip = 0
+Topo da arvore = QT-SERVICO
+nilnil
+->EEC(0),EF6<-
+Topo da arvore = comando(250)
+nilnil
+->246(0),D34<-
+Topo da arvore = comando(C8F)
+nilnil
+->10C(0),D22
+->22B(0),D28<-<-
+  (Processamento do quadro QT-SERVICO concluido!)
+RESULTADO:
+F1A = 
+EF6 = , 1 / VP4, 6 / 
+DA1 = 
+D9B = 
+D5A = 
+D48 = 
+D34 = C, 64 / 
+D28 = 
+D22 = B, 64 / 
+D12 = 
+D0E = 
+D0A = 
+D06 = 
+CFE = 
+CFA = 
+CF2 = 
+CEE = 
+CE6 = 
+CDE = 
+CD6 = 
+CD2 = 
+CCE = 
+CBA = 
+CB6 = 
+CAE = 
+
+Processamento concluido!

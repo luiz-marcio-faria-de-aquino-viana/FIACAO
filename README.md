@@ -2,6 +2,13 @@
 
 Algoritmo determinístico que processa um arquivo de entrada contendo os pontos elétricos e os eletrodutos, gerando um arquivo de saída contendo o eletroduto e a fiação elétrica correspondente.
 
+# Introdução
+
+O algoritmo FIAÇÃO é aplicado no roteamento automático dos condutores elétricos de Instalações Prediais, permitindo o dimensionamento de disjuntores, cabos e eletrodutos.
+
+Fornecendo maior segurança aos Projetos Elétricos, além de melhor orçamento para as construtoras.
+
+=> Cabos de cobrem são itens de custo alto em obras.
 
 # Implementações
 

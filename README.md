@@ -62,3 +62,13 @@ TIPO_CONDUTOR (NEUTRO / FASE / RETORNO / TERRA)
 
 Cliente: Microsoft Windows XP, Vista, 7, 8, 8.1 e 10
 
+
+# Contato
+
+CONTACT ME, IF YOU NEED HELP OR HAVE ANY QUESTIONS ABOUT THIS WORK!
+
+Luiz Marcio Faria de Aquino Viana,Pós-D.Sc. 
+
+E-mail: luiz.marcio.viana@gmail.com 
+
+Phone/WhatsApp: +55-21-99983-7207

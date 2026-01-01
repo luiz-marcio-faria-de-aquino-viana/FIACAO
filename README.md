@@ -85,8 +85,8 @@ Cliente: Microsoft Windows XP, Vista, 7, 8, 8.1 e 10
 
 CONTACT ME, IF YOU NEED HELP OR HAVE ANY QUESTIONS ABOUT THIS WORK!
 
-Luiz Marcio Faria de Aquino Viana,Pós-D.Sc. 
+Luiz Marcio Faria de Aquino Viana,Pós-D.Sc.
 
-E-mail: luiz.marcio.viana@gmail.com 
+E-mail: luiz.marcio.viana@gmail.com
 
-Phone/WhatsApp: +55-21-99983-7207
+Phone: +55-21-99983-7207 - WhatsApp: +55-21-95911-5253

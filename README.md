@@ -81,6 +81,13 @@ TIPO_CONDUTOR (NEUTRO / FASE / RETORNO / TERRA)
 Cliente: Microsoft Windows XP, Vista, 7, 8, 8.1 e 10
 
 
+# EMPRESAS PARCEIRAS
+
+* TLMV Consultoria e Sistemas EIRELI - CNPJ: 03.999.590/0001-04 - Empresa de Serviços de Tecnologia e Engenharia - Único Sócio e Engenheiro (Autor - 100%): Luiz Marcio Faria de Aquino Viana, Pós-D.Sc. - Engenheiro Eletricista com Ênfase em Engenharia de Sistemas e Computação
+
+* AQ Projetos de Instalações Ltda - CNPJ: 31.270.077/0001-05 - Empresa Especialista em Projetos de Instalações Prediais - Único Sócio: José Luiz de Aquino Viana - Engenheiro Eletricista
+
+
 # Contato
 
 CONTACT ME, IF YOU NEED HELP OR HAVE ANY QUESTIONS ABOUT THIS WORK!
@@ -91,11 +98,13 @@ E-mail: luiz.marcio.viana@gmail.com
 
 Phone: +55-21-99983-7207 - WhatsApp: +55-21-95911-5253
 
+
 # NOTES
 
 The Software CAD/BIM "Open Source" JuJu 2025-2026 is distributed under MIT License, to permit to others developers create comertial or non-comertial products and be beneficied by my efforty and dedication to this work.
 
 * Enjoy!
+
 
 # Released under MIT License
 
